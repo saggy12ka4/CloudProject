@@ -10,7 +10,7 @@ runtime_config:
 beta_settings:
     # If using Cloud SQL, uncomment and set this value to the Cloud SQL
     # connection name, e.g.
-     "phonic-monolith-193803:us-central1:myinstance		"
+     "phonic-monolith-193803:us-central1:myinstance"
     # You must also update the values in config.py.
     #
     # cloud_sql_instances: "your-cloudsql-connection-name"
