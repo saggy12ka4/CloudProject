@@ -12,4 +12,4 @@ beta_settings:
     # connection name, e.g.
     # You must also update the values in config.py.
     #
-    cloud_sql_instances: "phonic-monolith-193803:us-central1:myinstance "
+    cloud_sql_instances: "navin-201209:us-central1:saggy"
