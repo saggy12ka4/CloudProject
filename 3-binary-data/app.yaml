@@ -12,4 +12,4 @@ beta_settings:
     # connection name, e.g.
     # You must also update the values in config.py.
     #
-    cloud_sql_instances: "navin-201209:us-central1:saggy"
+    cloud_sql_instances: "valid-progress-201319:us-central1:me"
